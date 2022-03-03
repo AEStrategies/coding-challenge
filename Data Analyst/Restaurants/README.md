@@ -18,15 +18,16 @@ A dashboard built in a tool of your choice that tells a story of the data throug
 ---
 
 ### 👩‍💻 Concepts being evaluated
-1. Handling missing Values
-2. Explore numerical features
+1. Data encoding outside UTF-8
+2. Handling missing Values
+3. Explore numerical features
     1. Are they continuous?
     2. Outlier handling
     3. Scaling
     4. How does binning them help with the visual story telling?
-3. Explore categorical features
+4. Explore categorical features
     1. Are they ordinal or heirarchical?
     2. Label encoding
-4. Visualizing basic statistics of each feature
-5. Feature correlation
-6. Dashboard knowledge
+5. Visualizing basic statistics of each feature
+6. Feature correlation
+7. Dashboard knowledge
