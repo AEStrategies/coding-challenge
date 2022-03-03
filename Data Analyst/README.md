@@ -6,6 +6,9 @@
         <img src="https://img.shields.io/badge/difficulty-easy-brightgreen" />
     </a>
     <a>
+        <img src="https://img.shields.io/badge/estimated hours-8-brightgreen" />
+    </a>
+    <a>
         <img src="https://img.shields.io/badge/type-dashboard-blue" />
     </a>
     <a>
