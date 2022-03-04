@@ -1,6 +1,6 @@
 # Data Engineer
 
-### [Entity Resolution](https://github.com/AEStrategies/coding-challenge/tree/main/Data%20Analyst/Entity%20Resolution)
+### [Entity Resolution](https://github.com/AEStrategies/coding-challenge/tree/main/Data%20Engineer/Entity%20Resolution)
 <p>
     <a>
         <img src="https://img.shields.io/badge/difficulty-hard-red" />
