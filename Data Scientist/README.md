@@ -1,6 +1,6 @@
 # Data Scientist
 
-### [Flights](https://github.com/AEStrategies/coding-challenge/tree/main/Data%20Scientist/Fights)
+### [Flights](https://github.com/AEStrategies/coding-challenge/tree/main/Data%20Scientist/Flights)
 <p>
     <a>
         <img src="https://img.shields.io/badge/difficulty-medium-orange" />
