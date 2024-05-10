@@ -1,7 +1,7 @@
 # Flights
 
 ### ❓ Problem Statement
-Our client has built two databases, each containing a few tables, but has run into an issue of combining the information across databases. The have supplied us with the data contained
+Our client has built two databases, each containing a few tables, but has run into an issue of combining the information across databases. They have supplied us with the data contained
 in each of the tables and have asked us to create a way to merge the two datasets. We have informed them that each row will not be a 100% perfect match, but we can give them our
 best guess.
 
